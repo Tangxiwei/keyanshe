@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">南海华附科研社</string>
+    <string name="keyanshe">欢迎加入南海华附科研社</string>
+	<string name="keyanshejieshao">南海华附科研社由生物部，物理部，化学部，研发部组成
+		原还有IT部，后被废除，app作者即为IT部最后一任部长(作者QQ756365439),科研社群非作者所创
+		，此处提供群号。社团活动丰富，社员热情友好，诚邀您加入，谢谢！</string>
+	<string name="groupid" >科研社QQ群 : 125415743 </string>
+</resources>
